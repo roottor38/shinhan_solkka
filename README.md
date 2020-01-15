@@ -1,6 +1,6 @@
 # shinhan_solkka
 =============
-encore project
+신한은행 해커톤 대회
 
 ## 프로젝트 소개
 부부의 공동자산 관리 플랫폼
